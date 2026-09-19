@@ -1,0 +1,6 @@
+{
+  "name": "DocentAI Live - Tutor de Presentaciones",
+  "description": "Tutor interactivo con Gemini 3.8 Live para presentaciones en PDF con voz en tiempo real, creación simultánea de infografías y artefactos de código explicativos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
